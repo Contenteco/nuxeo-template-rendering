@@ -9,6 +9,7 @@
   <groupId>org.nuxeo.template.rendering</groupId>
   <artifactId>nuxeo-template-rendering-core</artifactId>
   <name>Template Rendering service implementation</name>
+    <version>5.9.3-NXP-14543</version>
 
   <dependencies>
     <dependency>
